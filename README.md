@@ -64,9 +64,9 @@ The table below summarizes commercial DPA and Low-Code Process Platforms, **sort
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of top open-source process engines, BPMN orchestrators, and developer workflow platforms, **sorted descending by GitHub Star Count ⭐**:
+Below is a curated list of top open-source process engines, BPMN orchestrators, and developer workflow platforms, **sorted descending by GitHub Stars_Count ⭐**:
 
-| ⚡ Project | ⭐ GitHub Stars | 📖 Description |
+| ⚡ Project | ⭐ GitHub_Stars | 📖 Description |
 | --- | --- | --- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![n8n Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Fair-code workflow automation platform with node-based visual editor and 400+ integrations. |
 | **[Camunda 8 (Zeebe)](https://github.com/camunda/zeebe)** | [![Zeebe Stars](https://img.shields.io/github/stars/camunda/zeebe?style=social&color=white)](https://github.com/camunda/zeebe/stargazers) | Cloud-native distributed BPMN workflow engine designed for microservices orchestration. |
